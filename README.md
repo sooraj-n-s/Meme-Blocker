@@ -58,7 +58,7 @@ For Software:
 *Countdown timer forcing you to enjoy the meme*
 
 #### Diagrams
-![Workflow](Add workflow diagram here)
+![BLOCK DIAGRAM](https://github.com/sooraj-n-s/Meme-Blocker/blob/main/BLOCK%20DIAGRAM/BLOCK%20DIAGRAM.png)
 *Shows how the extension detects blocked sites, picks a random video, and plays it with countdown*
 
 ---
