@@ -51,11 +51,10 @@ For Software:
 ![Extension pop](https://github.com/sooraj-n-s/Meme-Blocker/blob/main/IMAGES/EXTENSION%20POP.png)
 *Extension popup to add blocked sites*
 
-![Blocked page example](
-)
+![Blocked page example](https://github.com/sooraj-n-s/Meme-Blocker/blob/main/IMAGES/BLOCK%20PAGE%20EXAMPLE.png)
 *Blocked page with random video playing*
 
-![count timer](<img width="534" height="478" alt="Screenshot 2025-08-09 024042" src="https://github.com/user-attachments/assets/1f667107-f40a-4044-b46f-4c40e719ddab" />
+![count timer](
 )
 *Countdown timer forcing you to enjoy the meme*
 
