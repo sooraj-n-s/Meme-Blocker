@@ -48,13 +48,16 @@ For Software:
 
 ### Project Documentation
 #### Screenshots
-![Screenshot1](Add screenshot of popup here)
+![Extension pop](<img width="242" height="526" alt="Screenshot 2025-08-09 021224" src="https://github.com/user-attachments/assets/d0f08f19-3a69-461e-bea3-e813ecaf0fc7" />
+)
 *Extension popup to add blocked sites*
 
-![Screenshot2](Add screenshot of blocked page here)
+![Blocked page example](<img width="1897" height="1033" alt="Screenshot 2025-08-09 023848" src="https://github.com/user-attachments/assets/0f27260d-e9b5-4e11-b53f-481929a0ce5a" />
+)
 *Blocked page with random video playing*
 
-![Screenshot3](Add screenshot of countdown here)
+![count timer](<img width="534" height="478" alt="Screenshot 2025-08-09 024042" src="https://github.com/user-attachments/assets/1f667107-f40a-4044-b46f-4c40e719ddab" />
+)
 *Countdown timer forcing you to enjoy the meme*
 
 #### Diagrams
@@ -65,7 +68,7 @@ For Software:
 
 ### Project Demo
 #### Video
-[Add your demo video link here]
+[https://youtu.be/_d57U7EcUnI]
 *A Chrome extension replacing productivity with memes in glorious autoplay*
 
 ---
