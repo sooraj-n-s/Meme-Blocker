@@ -1,8 +1,8 @@
 
-# Meme Blocker with Countdown 🎯
+# Meme Blocker 
 
 ## Basic Details
-### Team Name: The Procrastinators
+### Team Name: SOORAJ N S
 
 ### Team Members
 - Team Lead: Sooraj N S - [MAR ATHANASIUS COLLEGE OF ENGINEERING]
