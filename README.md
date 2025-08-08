@@ -54,8 +54,7 @@ For Software:
 ![Blocked page example](https://github.com/sooraj-n-s/Meme-Blocker/blob/main/IMAGES/BLOCK%20PAGE%20EXAMPLE.png)
 *Blocked page with random video playing*
 
-![count timer](
-)
+![count timer](https://github.com/sooraj-n-s/Meme-Blocker/blob/main/IMAGES/COUNT%20TIMER.png)
 *Countdown timer forcing you to enjoy the meme*
 
 #### Diagrams
