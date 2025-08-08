@@ -48,11 +48,10 @@ For Software:
 
 ### Project Documentation
 #### Screenshots
-![Extension pop](<img width="242" height="526" alt="Screenshot 2025-08-09 021224" src="https://github.com/user-attachments/assets/d0f08f19-3a69-461e-bea3-e813ecaf0fc7" />
-)
+![Extension pop](https://github.com/sooraj-n-s/Meme-Blocker/blob/main/IMAGES/EXTENSION%20POP.png)
 *Extension popup to add blocked sites*
 
-![Blocked page example](<img width="1897" height="1033" alt="Screenshot 2025-08-09 023848" src="https://github.com/user-attachments/assets/0f27260d-e9b5-4e11-b53f-481929a0ce5a" />
+![Blocked page example](
 )
 *Blocked page with random video playing*
 
