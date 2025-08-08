@@ -48,8 +48,8 @@ For Software:
 
 ### Project Documentation
 #### Screenshots
-![Extension pop](https://github.com/sooraj-n-s/Meme-Blocker/blob/main/IMAGES/EXTENSION%20POP.png)
 *Extension popup to add blocked sites*
+![Extension pop](https://github.com/sooraj-n-s/Meme-Blocker/blob/main/IMAGES/EXTENSION%20POP.png)
 
 ![Blocked page example](https://github.com/sooraj-n-s/Meme-Blocker/blob/main/IMAGES/BLOCK%20PAGE%20EXAMPLE.png)
 *Blocked page with random video playing*
